@@ -15,13 +15,16 @@
 
 
 # AWS Responsibilities
-- **Infrastructure Provisioning and Management**
-
-    - Deploy and manage AWS resources such as EC2 instances, S3 buckets, RDS databases, Lambda functions, VPCs, and more. Utilize AWS Management Console, CLI, or SDKs to automate infrastructure provisioning and configuration.
 
 - **Cloud Architecture Design**
     - Design scalable, secure, and cost-effective AWS architectures that meet business requirements.
     - Implement best practices for high availability, disaster recovery, and scalability using AWS services like Auto Scaling, Elastic Load Balancing (ELB/ALB), Route 53, etc.
+      
+- **Infrastructure Provisioning and Management**
+
+    - Deploy and manage AWS resources such as EC2 instances, S3 buckets, RDS databases, Lambda functions, VPCs, and more.
+    - Implement Infrastructure as Code (IaC) using tools like AWS CloudFormation, Terraform, or AWS CDK to automate resource provisioning and management.
+
 
 - **Security and Compliance**
 
