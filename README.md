@@ -1,4 +1,4 @@
-﻿# intro
+﻿# introduction
 - I started my carer as a **Linux admin* where I got a chance to work on different flavour of Linux CentOS, RedHat and Ubuntu and middleware technology like apache, nginx, wordpress, tomcat, JBoss, wildfly,  MySQL PostgreSQL, RabbitMQ, Redis  
     - Key Responsibility are 
         - deploy and configure application on Linux server manage web apps and database, monitoring application server patching using Ansible, BD backup using bash scripting etc.
